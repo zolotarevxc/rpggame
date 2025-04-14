@@ -15,5 +15,5 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/random-quest-bot.git
-   cd random-quest-bot
+   git clone https://github.com/zolotarevxc/rpggame.git
+   cd rpggame
