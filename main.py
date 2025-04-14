@@ -270,7 +270,7 @@ def help_command(update: Update, context: CallbackContext) -> None:
 def main() -> None:
     """Запуск бота."""
     # Создаем Updater и передаем ему токен бота
-    updater = Updater("7820940965:AAGE5tzc6zAvF_Vbptv2rEQ7wqbf2K7vEQQ")
+    updater = Updater("TOKEN")
     
     # Получаем диспетчер для регистрации обработчиков
     dispatcher = updater.dispatcher
